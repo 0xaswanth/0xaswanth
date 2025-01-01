@@ -1,14 +1,14 @@
 # Aswanth KP - Penetration Tester
 
-Welcome to my GitHub portfolio! I am Aswanth KP, a passionate and skilled **Penetration Tester** with a strong focus on identifying and mitigating security vulnerabilities in web applications, networks, and systems. My goal is to help organizations protect their digital assets and ensure a safe and secure online environment.
+Welcome to my GitHub portfolio! I am Aswanth KP, a passionate and skilled **Penetration Tester** with expertise in identifying and mitigating security vulnerabilities in web applications, networks, and systems. My mission is to assist organizations in securing their digital assets and ensuring a robust and secure online environment.
 
 ## 🚀 About Me
 
-- 💻 **Penetration Tester** | **Cybersecurity Enthusiast**  
+- 💻 **Penetration Tester** | **Cybersecurity Professional**  
 - 🛠️ Focused on discovering vulnerabilities, exploiting weaknesses, and securing systems.
-- 🔍 Passionate about ethical hacking and securing applications from potential threats.
-- 🧠 Constantly learning new techniques and methodologies in cybersecurity.
-- 🏆 Completed certifications such as **OSCP**, **CEH**, and others in penetration testing.
+- 🔍 Passionate about ethical hacking, cybersecurity, and securing applications from potential threats.
+- 🧠 Continuously expanding my knowledge in penetration testing, vulnerability assessment, and cybersecurity trends.
+- 🏆 Completed several certifications, including **Cybersecurity**, **Ethical Hacking**, **Python**, **Networking**, and **Generative AI with Google Fundamentals**.
 
 ## 📚 My Skillset
 
@@ -17,22 +17,16 @@ Welcome to my GitHub portfolio! I am Aswanth KP, a passionate and skilled **Pene
 - **Vulnerability Assessment**: Identifying and exploiting security flaws in applications, systems, and services.
 - **Tools & Technologies**: 
   - Burp Suite, Metasploit, Nmap, Wireshark, Nikto, Gobuster, Hydra, etc.
-- **Languages**: Python, Bash, PowerShell, and a variety of scripting languages for automation and exploit development.
+- **Languages**: Python, Bash, PowerShell, and various scripting languages for automation and exploit development.
 - **Operating Systems**: Linux (Kali, Parrot OS), Windows, and macOS environments.
 
 ## 🔐 My Projects
 
-### 1. **[Web App Vulnerability Scanner](https://github.com/aswanthkp/web-app-scanner)**
-A tool that scans web applications for common vulnerabilities such as XSS, SQL Injection, and insecure HTTP methods.
+### 1. **[College Helpdesk Chatbot System using PHP](https://github.com/aswanthkp/college-helpdesk-chatbot)**
+A chatbot system developed using PHP to assist students with inquiries and support related to college services and information.
 
-### 2. **[Exploit Development Scripts](https://github.com/aswanthkp/exploit-dev-scripts)**
-A collection of scripts I’ve written for developing exploits for various vulnerabilities.
-
-### 3. **[Network Penetration Testing Tools](https://github.com/aswanthkp/network-pen-testing)**
-A repository for tools and scripts used in network penetration testing, including automated vulnerability scanners and exploitation scripts.
-
-### 4. **[Capture the Flag (CTF) Solutions](https://github.com/aswanthkp/ctf-solutions)**
-Solutions and write-ups for various Capture the Flag (CTF) challenges that showcase my problem-solving skills and penetration testing knowledge.
+### 2. **[Message Encoder and Decoder using Python](https://github.com/aswanthkp/message-encoder-decoder)**
+A Python-based application that encodes and decodes messages, ensuring secure communication.
 
 ## 🔧 How I Work
 
@@ -43,9 +37,11 @@ Solutions and write-ups for various Capture the Flag (CTF) challenges that showc
 
 ## 🏆 Certifications
 
-- **OSCP (Offensive Security Certified Professional)**
-- **CEH (Certified Ethical Hacker)**
-- **CompTIA Security+**
+- **Cybersecurity**
+- **Ethical Hacking**
+- **Python Programming**
+- **Networking**
+- **Generative AI with Google Fundamentals**
 
 ## 🌐 Let's Connect
 
@@ -57,7 +53,7 @@ Feel free to browse my repositories and explore my work in penetration testing. 
 
 ## 📈 GitHub Stats
 
-![Aswanth KP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswanthkp&show_icons=true&hide_title=true&hide=prs)
+![Aswanth KP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xaswanth&show_icons=true&hide_title=true&hide=prs)
 
 ---
 
